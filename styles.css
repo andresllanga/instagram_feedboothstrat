@@ -1,0 +1,20 @@
+.post-1{
+    display: flex;
+    justify-content: left;
+}
+.post-3{
+    display: flex;
+    justify-content: center;
+}
+.post-4{
+    display: flex;
+    justify-content: center;
+}
+.post-5{
+    display: flex;
+    justify-content: center;
+}
+.post-6{
+    display: flex;
+    justify-content: left;
+}
